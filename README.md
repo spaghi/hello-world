@@ -1,5 +1,5 @@
 # hello-world
-my new repository
+my repository
 
 Make and commit changes
 
